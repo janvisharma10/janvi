@@ -1,7 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
 printf("Hello World);
+printf("Janvi");
+printf("Sneha");
+return 0;
 }
-getch()
